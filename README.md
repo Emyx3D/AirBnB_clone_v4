@@ -153,6 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
+## Authors :black_nib:
+* __Emyx Emmanuel__ - <[Emyx3D](https://github.com/Emyx3D)>
+* __Balogun Zacchaeus__ - <[lordzac](https://github.com/lordzac)>
 
 ## License
 Public Domain. No copy write protection. 
